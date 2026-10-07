@@ -1,0 +1,41 @@
+SHE-SHIELD
+Inteligent women safety&journey assistance platform
+
+PROBLEM:
+Women may face safety concerns while travelling alone.
+Especially in unifamiliar or isplated areas.
+
+SOLUTION:
+SHE-SHIELD is a web-based safety platform that helps users choose safer rootes,monitor their journeys,find nearby accessible places,and view community safety information.
+
+MAIN MODULES:
+
+1.safeRoute
+-find routes
+-calculate safety score
+-Recommend a safer route
+
+2.safejourney
+-start a journey
+-set expected arrival time
+-confirm safe arrival
+-trusted contact alert workflow
+
+3.safePlace
+-find nearby accessible places
+-hospitals
+-polie stations
+-pharmacies
+-public business/shops
+
+4.safety map
+-report safety concerns
+-display reports on map
+-generate area safety indicators
+
+TECHNOLOGY:
+Fronted:React.js
+Backend:Node.js+Express.js
+Database:MangoDB
+Maps:Maps API
+Version control:Git+Github

@@ -1,0 +1,37 @@
+SHE-SHIELD
+Project Features
+
+1. User Registration & Login
+- User can create an account
+- User can log in
+- User can manage basic profile information
+
+2. SafeRoute
+- User enters starting location and destination
+- Display available routes
+- Calculate a safety score for routes
+- Recommend a safer route
+
+3. SafeJourney
+- User can start a journey
+- User can set expected arrival time
+- User can view journey status
+- User can confirm safe arrival
+
+4. SafePlace
+- Find nearby useful places
+- Hospitals
+- Police stations
+- Pharmacies
+- Public places/shops
+
+5. Safety Map
+- View reported safety concerns
+- Add a safety report
+- Select the type of concern
+- Display reports on the map
+
+6. User Dashboard
+- View active journey
+- View safety information
+- View saved information

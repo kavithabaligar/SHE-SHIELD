@@ -1,0 +1,22 @@
+SHE-SHIELD PROJECT FLOW
+
+Start
+  ↓
+Login / Register
+  ↓
+Home Dashboard
+  ↓
+ ┌──────────────┬──────────────┬──────────────┬──────────────┐
+ ↓              ↓              ↓              ↓
+SafeRoute    SafeJourney    SafePlace    Safety Map
+ ↓              ↓              ↓              ↓
+Enter          Start          Find nearby   View reports
+destination    journey        places        ↓
+ ↓              ↓              ↓            Add report
+Find routes    Set arrival    View places
+ ↓              ↓
+Safety Score   Monitor journey
+ ↓              ↓
+Safer Route    Confirm arrival
+                ↓
+             Journey Complete
